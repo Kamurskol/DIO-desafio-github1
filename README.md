@@ -11,6 +11,6 @@ Repositório pra armazenar resumos, anotações e outros repositórios do curso 
 
 |Repositório|Link|
 |-|-|
-|Gerador de QR code simples|[link](https://kamurskol.github.io/Teste_api_Gerador-de-QR-CODE/)|
+|[Gerador de QR code simples] (https://github.com/Kamurskol/Teste_api_Gerador-de-QR-CODE)|[Acessar](https://kamurskol.github.io/Teste_api_Gerador-de-QR-CODE/)|
 |Desafio Github 1|[link](https://github.com/Kamurskol/DIO-desafio-github1)
  
